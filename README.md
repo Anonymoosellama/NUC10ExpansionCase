@@ -16,17 +16,17 @@ PARTS LIST:
 7. 2x's m3 rounded head screws (again depends on dampers used, that assorted screw bundle is looking pretty good right about now ;)
 
 INSTRUCTIONS:
-Turn off the computer safely and disconnect peripherals and power
-Unscrew the metal baseplate and remove the 4 captured feet, don't loose the e-clips (when removing e-clips throw a rag over them so they don't eject into the aether)
-Screw the standoffs into the chassis, a little more than hand tight
-The feet/screws are captured by the e-clips, mount them in the corner holes
-Heat the threaded inserts and insert into the VESA and sATA hole patterns
-Insert the flat head screws into the hard drive mounting holes and slide the o-rings down onto them
-Insert the sATA connector into the hard drive (careful, the ribbon cable likes to break off at the connector, basically unfixable)
-For added security hot glue the base of the ribbon cable to the sATA connector
-Mount the hard drive to the case by gently tightening until the o-rings are squished a little (make sure the screws aren't bottoming out in the hard drive)
-Open the internal header on the motherboard by pulling the white horseshoe tab straight out (this is also very delicate)
-CAREFULLY route the ribbon cable so that is has minimal bends and twists when it's mounted in the correct orientation (the case is symmetric so just pick whatever orientation stresses the ribbon cable the least)
-Insert the ribbon cable contacts into the motherboard connector and push the tab down to lock it in place
-Mount the 3d printed chassis to the NUC by hand tightening the feet/screws (if over tightened then the standoffs will come out too)
-Et voila! When you boot into the OS just check for the new drive and format it
+Turn off the computer safely and disconnect peripherals and power. 
+Unscrew the metal baseplate and remove the 4 captured feet, don't loose the e-clips (when removing e-clips throw a rag over them so they don't eject into the aether). 
+Screw the standoffs into the chassis, a little more than hand tight. 
+The feet/screws are captured by the e-clips, mount them in the corner holes. 
+Heat the threaded inserts and insert into the VESA and sATA hole patterns. 
+Insert the flat head screws into the hard drive mounting holes and slide the o-rings down onto them. 
+Insert the sATA connector into the hard drive (careful, the ribbon cable likes to break off at the connector, basically unfixable). 
+For added security hot glue the base of the ribbon cable to the sATA connector. 
+Mount the hard drive to the case by gently tightening until the o-rings are squished a little (make sure the screws aren't bottoming out in the hard drive). 
+Open the internal header on the motherboard by pulling the white horseshoe tab straight out (this is also very delicate). 
+CAREFULLY route the ribbon cable so that is has minimal bends and twists when it's mounted in the correct orientation (the case is symmetric so just pick whatever orientation stresses the ribbon cable the least). 
+Insert the ribbon cable contacts into the motherboard connector and push the tab down to lock it in place. 
+Mount the 3d printed chassis to the NUC by hand tightening the feet/screws (if over tightened then the standoffs will come out too). 
+Et voila! When you boot into the OS just check for the new drive and format it. 
