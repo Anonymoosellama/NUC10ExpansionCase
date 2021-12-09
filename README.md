@@ -22,7 +22,7 @@ Screw the standoffs into the chassis, a little more than hand tight.
 The feet/screws are captured by the e-clips, mount them in the corner holes. 
 Heat the threaded inserts and insert into the VESA and sATA hole patterns. 
 Insert the flat head screws into the hard drive mounting holes and slide the o-rings down onto them. 
-Insert the sATA connector into the hard drive (careful, the ribbon cable likes to break off at the connector, basically unfixable). 
+Insert the sATA connector into the hard drive (careful, the ribbon cable likes to break off at the connector, and is realistically unfixable). 
 For added security hot glue the base of the ribbon cable to the sATA connector. 
 Mount the hard drive to the case by gently tightening until the o-rings are squished a little (make sure the screws aren't bottoming out in the hard drive). 
 Open the internal header on the motherboard by pulling the white horseshoe tab straight out (this is also very delicate). 
