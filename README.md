@@ -4,6 +4,7 @@ idk about 11+ gen, Intel is not super helpful when it come to documenting their 
 it should be easily modifiable to fit as long as the outer case dimensions are the same.
 You will need a couple of things to complete this project, the print takes about 5 hours so this can reasonably be completed in a day.
 The hardware is easy enough to acquire but the proprietary-ish internal sATA connector that Intel uses is somewhat hard to find.
+Obviously this is a modification to the original device, so the Kensington lock is no longer usable (unless added it to the .stl and 3d metal sintered); also this probably voids your warranty. If you break your device, this is on you, I am not responsible for it; if you don't understand the directions or any part of this upgrade then don't do it.
 
 PARTS LIST:
 1. 4x's 20mm M3 standoffs
